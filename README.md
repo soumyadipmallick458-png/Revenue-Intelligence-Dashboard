@@ -22,7 +22,7 @@ An interactive Tableau dashboard designed to monitor revenue performance across 
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Skills Demonstrated
 - Business Intelligence
