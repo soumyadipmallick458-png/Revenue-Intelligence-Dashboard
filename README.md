@@ -30,3 +30,6 @@ An interactive Tableau dashboard designed to monitor revenue performance across 
 - KPI Design
 - Dashboard Development
 - Anomaly Detection
+## Live Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/soumyadip.mallick/viz/Revenue_Intelligence_Dashboard1/Dashboard1)
